@@ -1,0 +1,109 @@
+name,age,gender,country,query,output,rating,date,genre
+Nick,21,Male,USA,i want to listen to a slow sleepy song,rock.00023.wav,94,1703060457.512189,rock
+albert,35,Male,Canada,i want a pop song with good beat,rock.00034.wav,94,1703060931.087558,rock
+Anthony,40,Male,Canada,give me a slow paced classical,classical.00096.wav,90,1703061113.504403,classical
+Rick,32,Male,USA,give me some party musicc,disco.00051.wav,93,1703061331,disco
+Randy,18,Male,Mexico,suprise me with some cool relaxing music,blues.00094.wav,88,1703061523.394297,blues
+Riya,22,Female,India,something closer to classical yet still has a beat to it,classical.00096.wav,96,1703061782.534646,classical
+Elle,25,Female,UK,i want to listening to something that can lift my mood,blues.00043.wav,90,1703061869.699869,blues
+Amy,35,Female,USA,give a good rock music ,metal.00097.wav,91,1703062909.532242,metal
+Patricia,23,Female,Brazil,Play me a song for relaxing,disco.94.wav,99,20/11/23,disco
+Thomas,22,Male,Japan,I want to listen to something uplifting,rock.10.wav,77,24/11/23,rock
+Elizabeth,21,Female,Japan,"""Play a song that matches my joyful mood."",",disco.44.wav,97,16/11/23,disco
+Charles,25,Male,Australia,"""I'm feeling nostalgic, play a song from the 90s."",",disco.15.wav,83,21/12/23,disco
+Joseph,31,Male,Canada,"""I need a boost, play something energetic."",",pop.08.wav,93,13/11/23,pop
+William,31,Male,Australia,"""Something calm for my relaxed evening, please."",",disco.08.wav,62,07/10/23,disco
+William,24,Male,Canada,"""Play a love song, I'm feeling romantic."",",rock.72.wav,69,17/12/23,rock
+David,27,Male,Mexico,"""I'm sad, play a song that's soothing."",",rock.98.wav,70,10/10/23,rock
+Robert,21,Male,Japan,"""It's party time, play the latest hits."",",disco.70.wav,75,27/12/23,disco
+David,31,Male,USA,"""I'm studying, play some instrumental music."",",hip-hop.59.wav,94,09/12/23,hip-hop
+Sarah,19,Female,France,"""I'm in a thoughtful mood, play something deep."",",disco.72.wav,85,10/11/23,disco
+Patricia,32,Female,Mexico,"""Play a song for a sunny day."",",rock.52.wav,76,05/10/23,rock
+David,15,Male,USA,"""I need motivation, play something inspiring."",",rock.09.wav,90,01/10/23,rock
+Sarah,32,Female,India,"""Play a song for a rainy mood."",",jazz.27.wav,82,29/11/23,jazz
+Michael,20,Male,USA,"""It's workout time, play something upbeat."",",hip-hop.57.wav,100,02/11/23,hip-hop
+William,24,Male,Germany,"""I'm feeling dreamy, play something ethereal."",",hip-hop.80.wav,87,05/12/23,hip-hop
+Linda,18,Female,India,"""Play a song for a cozy night in."",",hip-hop.32.wav,86,21/11/23,hip-hop
+Robert,18,Male,Mexico,"""I'm in a celebratory mood, play something festive."",",rock.37.wav,82,27/12/23,rock
+Patricia,13,Female,Canada,"""Play a song that's perfect for driving."",",rock.13.wav,94,20/12/23,rock
+Mary,13,Female,UK,"""I'm cooking, play something fun and lively."",",pop.77.wav,97,22/11/23,pop
+John,23,Male,France,"""Play a song for a quiet morning."",",hip-hop.42.wav,93,02/10/23,hip-hop
+Richard,25,Male,Canada,"""I'm feeling adventurous, play something new and exciting."",",disco.21.wav,90,22/11/23,disco
+Robert,14,Male,Mexico,"""Play a song for a lazy afternoon."",",hip-hop.33.wav,82,17/11/23,hip-hop
+Elizabeth,20,Female,Australia,"""I need a laugh, play something humorous."",",rock.54.wav,62,02/11/23,rock
+Elizabeth,17,Female,Australia,"""Play a song that feels like a warm hug."",",rock.47.wav,82,05/12/23,rock
+Robert,14,Male,Australia,"""I'm feeling reflective, play something with meaningful lyrics."",",rock.64.wav,55,09/10/23,rock
+Michael,15,Male,UK,"""It's a chill night, play some laid-back tunes."",",pop.61.wav,75,07/11/23,pop
+Patricia,23,Female,Australia,"""I'm feeling hopeful, play something uplifting."",",rock.65.wav,78,13/11/23,rock
+Karen,25,Female,France,"""Play a song for starry nights."",",pop.88.wav,57,19/10/23,pop
+Patricia,25,Female,Canada,"""I need concentration, play some ambient music."",",rock.51.wav,71,01/12/23,rock
+Thomas,27,Male,Canada,"""Play a song that's perfect for a road trip."",",hip-hop.28.wav,78,24/11/23,hip-hop
+Elizabeth,30,Female,Germany,"""I'm in a dancing mood, play something with a great beat."",",pop.95.wav,90,17/11/23,pop
+Barbara,29,Female,Germany,"""Play a song for a winter evening."",",disco.45.wav,61,06/10/23,disco
+Jennifer,32,Female,France,"""I'm feeling mysterious, play something intriguing."",",reggae.74.wav,96,25/10/23,reggae
+Richard,20,Male,India,"""Play a song for a summer vibe."",",rock.58.wav,85,24/12/23,rock
+Mary,27,Female,UK,"""I need to unwind, play something relaxing."",",disco.58.wav,85,03/10/23,disco
+John,26,Male,Mexico,"""Play a song that's great for a picnic."",",rock.06.wav,75,26/10/23,rock
+Joseph,25,Male,Germany,"""I'm feeling blue, play something to cheer me up."",",disco.21.wav,95,05/10/23,disco
+Charles,31,Male,Japan,"""Play a song for a romantic dinner."",",hip-hop.98.wav,88,02/12/23,hip-hop
+John,29,Male,Australia,"""I'm in a creative mood, play something artistic."",",rock.15.wav,76,22/12/23,rock
+John,19,Male,Germany,"""Play a song for quiet contemplation."",",rock.32.wav,58,14/10/23,rock
+Richard,29,Male,India,"""I'm feeling energetic, play something fast-paced."",",pop.92.wav,98,28/10/23,pop
+Jessica,16,Female,Japan,"""Play a song that's perfect for a sunrise."",",pop.67.wav,96,28/12/23,pop
+Jessica,23,Female,USA,"""I need a pep talk, play something empowering."",",rock.88.wav,66,23/11/23,rock
+Richard,19,Male,Germany,"""Play a song for a peaceful evening."",",rock.84.wav,67,03/11/23,rock
+Robert,21,Male,Australia,"""I'm feeling whimsical, play something quirky."",",rock.20.wav,99,30/12/23,rock
+Richard,20,Male,UK,"""Play a song for a heartfelt moment."",",pop.25.wav,73,10/10/23,pop
+Linda,24,Female,Brazil,"""I need focus, play something without lyrics."",",rock.69.wav,83,29/11/23,rock
+Linda,30,Female,Brazil,"""Play a song that's great for a workout."",",jazz.97.wav,84,24/10/23,jazz
+Richard,31,Male,Canada,"""I'm feeling festive, play some holiday music."",",reggae.91.wav,82,14/11/23,reggae
+Barbara,30,Female,Germany,"""Play a song for a night out with friends."",",jazz.95.wav,71,21/12/23,jazz
+David,26,Male,Canada,"""I'm feeling melancholic, play something touching."",",pop.47.wav,67,09/11/23,pop
+Barbara,30,Female,Mexico,"""Play a song that's perfect for a sunset."",",disco.05.wav,91,26/11/23,disco
+Karen,10,Female,USA,"""I need a mood lifter, play something bright."",",hip-hop.90.wav,79,01/11/23,hip-hop
+Linda,23,Female,India,"""Play a song for a day at the beach."",",rock.00.wav,64,07/11/23,rock
+John,18,Male,USA,"""I'm feeling introspective, play something with depth."",",rock.79.wav,80,05/11/23,rock
+Karen,28,Female,India,"""Play a song that's great for a hike."",",rock.35.wav,89,17/11/23,rock
+Sarah,23,Female,USA,"""I'm feeling anxious, play something calming."",",rock.85.wav,79,14/11/23,rock
+Mary,22,Female,UK,"""Play a song for a fun road trip."",",disco.16.wav,94,27/10/23,disco
+James,29,Male,Brazil,"""I'm feeling excited, play something thrilling."",",rock.48.wav,95,06/12/23,rock
+William,32,Male,Australia,"""Play a song for a cozy Sunday."",",disco.82.wav,85,24/12/23,disco
+Elizabeth,21,Female,Canada,"""I need inspiration, play something visionary."",",rock.38.wav,91,06/10/23,rock
+Joseph,21,Male,Japan,"""Play a song for an evening walk."",",rock.86.wav,84,19/11/23,rock
+John,30,Male,Canada,"""I'm feeling romantic, play a love ballad."",",pop.95.wav,67,03/11/23,pop
+Joseph,22,Male,Canada,"""Play a song that's perfect for meditation."",",pop.12.wav,75,03/12/23,pop
+Michael,22,Male,Australia,"""I'm feeling spirited, play something vibrant."",",rock.59.wav,84,23/11/23,rock
+Jennifer,29,Female,Brazil,"""Play a song for a quiet night alone."",",pop.76.wav,95,08/12/23,pop
+Michael,23,Male,India,"""I need some joy, play something delightful."",",rock.26.wav,77,01/12/23,rock
+Linda,25,Female,Germany,"""Play a song for a snowy day."",",hip-hop.26.wav,99,28/10/23,hip-hop
+John,18,Male,UK,"""I'm feeling brave, play something bold."",",disco.11.wav,61,21/11/23,disco
+Susan,20,Female,Mexico,"""Play a song for a relaxing bath."",",rock.58.wav,99,15/11/23,rock
+John,25,Male,Mexico,"""I'm feeling cool, play something with a smooth vibe."",",rock.24.wav,52,16/12/23,rock
+James,27,Male,USA,"""Play a song that's great for a party."",",hip-hop.84.wav,85,24/12/23,hip-hop
+James,23,Male,UK,"""I need a pick-me-up, play something with positive vibes."",",rock.37.wav,78,06/10/23,rock
+David,27,Male,USA,"""Play a song for a night of stargazing."",",hip-hop.20.wav,75,18/10/23,hip-hop
+David,22,Male,Germany,"""I'm feeling tender, play something gentle."",",hip-hop.72.wav,94,10/11/23,hip-hop
+Thomas,29,Male,Canada,"""Play a song for a Sunday morning."",",pop.78.wav,69,19/12/23,pop
+Jessica,26,Female,France,"""I need a bit of nostalgia, play an old favorite."",",disco.05.wav,97,27/12/23,disco
+Sarah,24,Female,UK,"""Play a song for a quiet coffee break."",",hip-hop.82.wav,87,29/10/23,hip-hop
+Thomas,35,Male,Australia,"""I'm feeling confident, play something with swagger."",",rock.36.wav,99,01/11/23,rock
+Karen,28,Female,Australia,"""Play a song that's perfect for a daydream."",",hip-hop.73.wav,69,17/12/23,hip-hop
+Patricia,13,Female,India,"""I'm feeling peaceful, play something serene."",",hip-hop.22.wav,95,24/11/23,hip-hop
+Karen,32,Female,Australia,"""Play a song for a night of dancing."",",metal.16.wav,70,13/12/23,metal
+Sarah,17,Female,Canada,"""I need some comfort, play something warm and comforting."",",disco.39.wav,65,17/10/23,disco
+Jessica,26,Female,France,"""Play a song for a rainy afternoon."",",rock.76.wav,64,05/11/23,rock
+William,30,Male,USA,"""I'm feeling playful, play something lively."",",reggae.35.wav,68,09/10/23,reggae
+Karen,23,Female,Brazil,"""Play a song for a relaxed brunch.""",rock.45.wav,72,24/12/23,rock
+John,24,Male,Germany,I need a high-energy track,hip-hop.60.wav,68,27/11/23,hip-hop
+Susan,19,Female,Australia,Play me a song for relaxing,hip-hop.68.wav,75,31/10/23,hip-hop
+William,19,Male,Canada,A song for a rainy day,rock.12.wav,58,13/11/23,rock
+Jessica,26,Female,Japan,A track for my workout session,rock.20.wav,99,06/11/23,rock
+Jennifer,26,Female,Germany,Play me a song for relaxing,disco.58.wav,77,30/10/23,disco
+Linda,20,Female,India,Something for a quiet evening?,pop.59.wav,85,19/11/23,pop
+Robert,34,Male,Mexico,Play a song that makes me dance,metal.71.wav,100,14/11/23,metal
+Charles,28,Male,Japan,I need a high-energy track,disco.16.wav,59,20/10/23,disco
+Jennifer,26,Female,UK,A song for a rainy day,pop.90.wav,76,16/10/23,pop
+Thomas,24,Male,France,Something to cheer me up,pop.85.wav,65,26/10/23,pop
+Thomas,15,Male,Canada,Play a song that makes me dance,hip-hop.04.wav,83,02/11/23,hip-hop
+Elizabeth,27,Female,Japan,I want a classic hit,rock.19.wav,82,09/11/23,rock
+William,32,Male,Brazil,Play a song that makes me dance,reggae.31.wav,99,09/10/23,reggae
